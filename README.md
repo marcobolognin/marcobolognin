@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on challenging projects
 - 🤔 I’m looking for help with accelerating my coding skills
 - 💬 Ask me about Material Point Method analysis for large deformation problems
-- 📫 How to reach me: m.bolognin-at-nlyseconsultants. com
+- 📫 How to reach me: bolognin.marco-at-gmail. com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I am a cat guardian (called Nebula)
